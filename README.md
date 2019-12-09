@@ -23,4 +23,4 @@ saved models were too big to upload as well, please ignore code that loads saved
 # RESULTS
 Best Model - LOGISTIC REGRESSION
 Neural Network doesn’t seem to generalize well to test data but there’s a lot of room for improvement/tweaks to get there.
-Based on the metrics, We can conclude that  loans predicted by the random forest as bad loans are either bad or have a high possibility of becoming so.
+Based on the metrics, We can conclude that  loans predicted by the random forest as bad loans are either bad or have a high possibility of becoming so. For more details, please look through the power point file, consulting proposal
