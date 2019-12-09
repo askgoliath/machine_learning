@@ -14,6 +14,14 @@ Manually looked through the data and dropped some  features which obviously have
 Some features are relating to the target variable but they have too many NAs so we assigned ‘None’ to categorical variables and 0 or -1 to some numerics features and other numeric features were assigned to mode value.
 
 
+
+# Models
+We built three models: logistic Regression, Random Forest Regression, and Neural Network.
+Details about metrics to measure the performance are in the PPT file and code file.
+Logistic regression has the best performance with accuracy 95%, precision 91% and recall 99%. High recall means positive instances are correctly detected by the calssifier that would be great because we don't want to miss any qualified client.
+
+
+
 # data file - loan.csv
 https://drive.google.com/open?id=1hx6mGt1m_Gf2XQyVDqAFIkYU05gT0MXT
 
